@@ -26,7 +26,7 @@ Github repository: [https://github.com/nveldt/FlowSeed](https://github.com/nveld
 
 
 ## Experimental results:
-**DBLP_S5_#1_1-1072.mat/DBLP_S5_#1_1-1683.mat**: Sets returned by FlowSeed on two random samples with no penalty for exclustion of the seed set 
+**DBLP_S5_#1_1-1072.mat**, **DBLP_S5_#1_1-1683.mat**: Sets returned by FlowSeed on two random samples with no penalty for exclustion of the seed set 
 
-**DBLP_S5_#1_include_R_1-1072.mat/DBLP_S5_#1_include_R_1-1683.mat**: Sets returned by FlowSeed on two random samples with strict penalty for exclustion of the seed set (R is forced to be in the resulting sets).
+**DBLP_S5_#1_include_R_1-1072.mat**, **DBLP_S5_#1_include_R_1-1683.mat**: Sets returned by FlowSeed on two random samples with strict penalty for exclustion of the seed set (R is forced to be in the resulting sets).
 
