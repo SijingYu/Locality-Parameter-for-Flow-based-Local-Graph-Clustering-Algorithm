@@ -23,3 +23,10 @@ Github repository: [https://github.com/nveldt/FlowSeed](https://github.com/nveld
 **utilities.jl**: function used to explore the characteristics of the sets returned by FlowSeed with different locality parameter
 
 **test_DBLP-sets.ipynb**: a demo of functions in utilitis.jl and outputs the result of experiments.
+
+
+## Experimental results:
+**DBLP_S5_#1_1-1072.mat/DBLP_S5_#1_1-1683.mat**: Sets returned by FlowSeed on two random samples with no penalty for exclustion of the seed set 
+
+**DBLP_S5_#1_include_R_1-1072.mat/DBLP_S5_#1_include_R_1-1683.mat**: Sets returned by FlowSeed on two random samples with strict penalty for exclustion of the seed set (R is forced to be in the resulting sets).
+
